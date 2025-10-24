@@ -1,88 +1,73 @@
-# 👩‍💻 Amal Hkiri
+<!-- README.md -->
+<h1 align="center">
+  <img src="./hello.svg" alt="Hello" width="140" style="vertical-align: middle"/>
+  <br/>
+  <strong>Amal Hkiri</strong>
+</h1>
 
-🎓 **Étudiante en Ingénierie Informatique**  
-📍 Tunis, Tunisie  
-📧 [amal.hkiri@esprit.tn](mailto:amal.hkiri@esprit.tn)  
-📱 +216 93 843 946  
+<p align="center">
+  <a href="mailto:amal.hkiri@esprit.tn">✉️ amal.hkiri@esprit.tn</a> · Tunis, Tunisie · +216 93 843 946
+</p>
 
----
-
-## 🧭 À propos de moi
-
-Étudiante passionnée par le **développement logiciel**, je cherche à mettre en pratique mes compétences techniques et analytiques à travers des projets innovants.  
-Curieuse et motivée, je m'intéresse particulièrement aux **technologies full-stack**, aux **architectures microservices** et aux **solutions DevOps modernes**.  
-
----
-
-## 🎓 Formation
-
-**ESPRIT – École Supérieure Privée d’Ingénierie et de Technologie (Tunis)**  
-*Cycle d’ingénierie en Informatique (2022 - 2026)*  
-
-**Lycée Marsa Riadh – Tunis**  
-*Baccalauréat en Sciences Expérimentales (2021)*  
+<p align="center">
+  <img src="https://img.shields.io/badge/Status-Étudiante-blueviolet?style=for-the-badge" alt="status"/>
+  <img src="https://img.shields.io/badge/Tech-Full--Stack-informational?style=for-the-badge" alt="tech"/>
+  <img src="https://img.shields.io/badge/Stack-Docker%20%7C%20Git-success?style=for-the-badge" alt="stack"/>
+  <img src="https://img.shields.io/badge/Language-Français%20%7C%20Anglais-<middle>?style=for-the-badge" alt="langues"/>
+</p>
 
 ---
 
-## 💼 Expériences Professionnelles
-
-**🧠 Stage en Développement Logiciel – Actia, Tunis (Juil.–Août 2024)**  
-- Conception et développement d’un site web full-stack (Frontend & Backend).  
-- Participation à la mise en place de l’architecture logicielle et intégration API.
-
-**💡 Stage d’Initiation – Total Energy, Tunis (Juin–Août 2022)**  
-- Découverte du fonctionnement interne d’un département RH.  
-- Contribution à la gestion administrative et à l’organisation interne.  
+## 👋 Bonjour ! (Quick intro)
+Je suis **Amal Hkiri**, étudiante en ingénierie logicielle (ESPRIT). J’aime construire des projets full-stack, explorer les architectures microservices et automatiser les déploiements avec Docker.  
+Je recherche un **stage d’été (2 mois)** pour mettre en pratique mes compétences et apprendre au contact d’équipes pro.
 
 ---
 
-## 🚀 Projets Académiques
-
-- 🎮 **Jeu 2D (C, SDL)** – Développement d’un jeu de plateforme sous Ubuntu.  
-- 🏥 **Application Qt (C++)** – Gestion d’agences d’ambulances et des ressources.  
-- 🍽️ **Site web (HTML, CSS, JS)** – Gestion de restaurants en ligne.  
-- ☕ **Application JavaFX (Java)** – Application de bureau pour la gestion de restaurants.  
-- 🌐 **Site dynamique (Symfony, PHP)** – Système complet de gestion de restaurants.  
-- 📚 **Application e-learning (Spring Boot, Angular)** – Plateforme web avec back-end robuste.  
+## 🔭 Projets & Technologies
+**Languages & frameworks:** C, C++, Java, PHP, Python, JavaScript, SQL — Angular, Symfony, Spring Boot, JavaFX.  
+**Databases / DevOps:** MySQL, MongoDB, Docker.  
+**Conception:** REST APIs, Microservices.  
+**Versioning:** Git / GitHub.
 
 ---
 
-## 🛠️ Compétences Techniques
-
-| Catégorie | Technologies |
-|------------|--------------|
-| 💻 **Langages** | C, C++, Java, PHP, Python, JavaScript, SQL |
-| 🧩 **Frameworks** | Angular, Symfony, Spring Boot, JavaFX |
-| 🗄️ **Bases de données** | MySQL, MongoDB |
-| ⚙️ **DevOps** | Docker |
-| 🧱 **Architecture** | Microservices, API RESTful |
-| 🔄 **Versioning** | Git, GitHub |
+## 📂 Projets académiques (highlights)
+- **Jeu 2D (C, SDL)** — plateforme sous Ubuntu.  
+- **Gestion agences d’ambulances (C++, Qt)** — gestion des ressources et planning.  
+- **Site gestion restaurants (HTML/CSS/JS, Symfony/PHP)**.  
+- **Application e-learning (Spring Boot + Angular)** — back-end robuste + front modulaire.
 
 ---
 
-## 🤝 Compétences Interpersonnelles
-
-- Gestion de projet (Agile / Scrum)  
-- Travail d’équipe & leadership  
-- Organisation & gestion du temps  
-- Communication efficace  
-- Résolution de problèmes complexes  
+## 🧾 Expériences
+- **Actia (Tunis)** — Stage Développement Logiciel (Juil.–Août 2024) — frontend & backend pour un site web.  
+- **Total Energy (Tunis)** — Stage d’Initiation (Été 2022) — observation & participation RH/admin.
 
 ---
 
-## 🌍 Langues
-
-- 🇫🇷 Français : Courant  
-- 🇬🇧 Anglais : Intermédiaire  
-- 🇹🇳 Arabe : Natif  
+## ✨ Aperçu visuel / démo
+- Ouvre `profile.html` dans ton navigateur pour voir une **mini-page animée "Hello World"** (design moderne, animation CSS, bouton contact).
+- Le même `hello.svg` est utilisé en en-tête du README pour une touche visuelle.
 
 ---
 
 ## 📫 Contact
-
-N’hésite pas à me contacter pour collaborer sur un projet ou échanger sur les technologies !  
-💼 [LinkedIn](#) — 🐙 [GitHub](#)
+Email: amal.hkiri@esprit.tn  
+Téléphone: +216 93 843 946  
+LinkedIn / GitHub: *(ajoute tes liens)*
 
 ---
 
-> *"Le code, c’est plus qu’un langage : c’est un moyen de construire l’avenir."*
+## 💡 Conseils pour améliorer ce repo
+1. Ajoute des badges dynamiques (réputation GitHub, top languages).  
+2. Héberge `profile.html` via **GitHub Pages** pour une démo en ligne.  
+3. Ajoute captures/ GIFs des projets (screenshots + mini vidéos) dans `assets/`.
+
+---
+
+> Merci d’avoir regardé ! Si tu veux, je peux aussi:
+> - transformer ce README pour GitHub Pages (index.html),
+> - générer des badges personnalisés,
+> - ou créer une version en anglais.
+
