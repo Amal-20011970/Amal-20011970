@@ -61,7 +61,6 @@ _Stage d’Initiation_
 ---
 
 ## ✨ Portfolio en ligne
-🚀 **Découvre ma page animée “Hello World”** :  
 [![Portfolio en ligne](https://img.shields.io/badge/🌐_Voir_mon_portfolio-en_ligne-blueviolet?style=for-the-badge&logo=vercel&logoColor=white)](https://amal-20011970.github.io/)
 
 ---
