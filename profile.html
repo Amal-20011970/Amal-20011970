@@ -1,0 +1,128 @@
+<!-- profile.html -->
+<!doctype html>
+<html lang="fr">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width,initial-scale=1" />
+  <title>Amal Hkiri — Portfolio</title>
+  <style>
+    :root {
+      --bg1: #0f1724;
+      --accent1: #7b2ff7;
+      --accent2: #f107a3;
+      --muted: #98a0b3;
+      --card: #0b1220;
+    }
+    html,body { height:100%; margin:0; font-family: "Segoe UI", Roboto, sans-serif; background: linear-gradient(180deg, #030612 0%, #071229 100%); color: #e6eef8; }
+    .center {
+      min-height:100vh; display:flex; align-items:center; justify-content:center; padding:24px;
+    }
+    .card {
+      width:860px; max-width:95%; border-radius:16px; overflow:hidden; box-shadow: 0 12px 40px rgba(3,6,23,0.7);
+      display:grid; grid-template-columns: 320px 1fr; background: linear-gradient(180deg, rgba(255,255,255,0.02), rgba(255,255,255,0.01));
+      transform: translateY(0); animation: rise 800ms ease;
+    }
+    @keyframes rise { from { transform: translateY(10px); opacity:0 } to { transform: translateY(0); opacity:1 } }
+    .left {
+      padding:28px; background: linear-gradient(180deg, rgba(123,47,247,0.12), rgba(241,7,163,0.06));
+      display:flex; flex-direction:column; gap:18px; align-items:center; justify-content:center;
+    }
+    .avatar { width:160px; height:160px; border-radius:16px; background:linear-gradient(135deg,var(--accent1),var(--accent2)); display:flex; align-items:center; justify-content:center; font-size:28px; font-weight:700; color:white; }
+    .name { font-size:20px; font-weight:700; margin-top:6px; color:white; }
+    .role { font-size:13px; color:var(--muted); }
+    .btn {
+      margin-top:8px; padding:10px 18px; border-radius:10px; border:0; cursor:pointer; background:linear-gradient(90deg,var(--accent1),var(--accent2));
+      color:white; font-weight:600; box-shadow: 0 8px 18px rgba(123,47,247,0.12); text-decoration:none;
+    }
+
+    .right { padding:28px; }
+    .section { margin-bottom:14px; }
+    h3 { margin:0 0 8px 0; font-size:16px; color:white; }
+    p { margin:0; color:var(--muted); line-height:1.5; font-size:14px; }
+
+    .techs { display:flex; gap:10px; flex-wrap:wrap; margin-top:8px; }
+    .chip { background: rgba(255,255,255,0.03); padding:6px 10px; border-radius:10px; color:#dbe7ff; font-size:13px; }
+
+    .hello {
+      display:inline-block; padding:10px 16px; border-radius:999px; background:linear-gradient(90deg,var(--accent2),var(--accent1)); color:white;
+      font-weight:700; letter-spacing:0.6px; box-shadow: 0 6px 16px rgba(121,37,231,0.18);
+      transform-origin:center; animation: bob 3s infinite ease-in-out;
+    }
+    @keyframes bob {
+      0% { transform: translateY(0); }
+      50% { transform: translateY(-6px); }
+      100% { transform: translateY(0); }
+    }
+
+    .footer { display:flex; gap:8px; margin-top:18px; align-items:center; color:var(--muted); font-size:13px; }
+    .contact { display:flex; gap:10px; align-items:center; margin-top:8px; }
+    .icon { width:18px; height:18px; display:inline-block; opacity:0.95; vertical-align:middle; }
+
+    @media (max-width:760px) {
+      .card { grid-template-columns:1fr; }
+      .left { padding:22px; }
+      .right { padding:22px; }
+    }
+  </style>
+</head>
+<body>
+  <div class="center">
+    <div class="card" role="main">
+      <div class="left">
+        <div class="avatar">AH</div>
+        <div class="name">Amal Hkiri</div>
+        <div class="role">Étudiante en Ingénierie Logicielle</div>
+
+        <a class="btn" href="mailto:amal.hkiri@esprit.tn">✉️ Me contacter</a>
+
+        <div style="margin-top:12px; text-align:center;">
+          <div class="hello">Hello, world 👋</div>
+        </div>
+
+        <div class="footer">
+          <div class="contact">
+            <svg class="icon" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"><path d="M2 7v10a3 3 0 0 0 3 3h14a3 3 0 0 0 3-3V7" stroke="#fff" stroke-opacity="0.9" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"/></svg>
+            <span style="color:#d1defc">Tunis, Tunisie</span>
+          </div>
+        </div>
+      </div>
+
+      <div class="right">
+        <div class="section">
+          <h3>À propos</h3>
+          <p>Étudiante en ingénierie logicielle, motivée par le développement full-stack, les architectures microservices et l'automatisation DevOps. Je recherche un stage d'été pour approfondir mes compétences techniques.</p>
+        </div>
+
+        <div class="section">
+          <h3>Compétences techniques</h3>
+          <div class="techs">
+            <div class="chip">Java</div>
+            <div class="chip">C / C++</div>
+            <div class="chip">JavaScript</div>
+            <div class="chip">PHP / Symfony</div>
+            <div class="chip">Angular</div>
+            <div class="chip">Spring Boot</div>
+            <div class="chip">Docker</div>
+            <div class="chip">MySQL / MongoDB</div>
+          </div>
+        </div>
+
+        <div class="section">
+          <h3>Projets récents</h3>
+          <p>Jeu 2D (C, SDL), Application gestion ambulances (C++ / Qt), Site restaurants (Symfony), Plateforme e-learning (Spring Boot + Angular).</p>
+        </div>
+
+        <div class="section">
+          <h3>Langues</h3>
+          <p>Français: courant · Anglais: intermédiaire · Arabe: natif</p>
+        </div>
+
+        <div class="section">
+          <h3>Contact</h3>
+          <p>Email: <a href="mailto:amal.hkiri@esprit.tn" style="color:#dbe7ff; text-decoration:none;">amal.hkiri@esprit.tn</a> · Téléphone: +216 93 843 946</p>
+        </div>
+      </div>
+    </div>
+  </div>
+</body>
+</html>
