@@ -1,9 +1,13 @@
-<!-- README.md -->
-<h1 align="center">
-  <img src="./hello.svg" alt="Hello" width="140" style="vertical-align: middle"/>
-  <br/>
-  <strong>Amal Hkiri</strong>
-</h1>
+# 👋 Hello, World! I'm Amal Hkiri  
+
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=6A5ACD&width=500&lines=Salut,+je+suis+Hkiri+Amal;Étudiante+en+Génie+Logiciel;Passionnée+par+l'IA,+le+Développement+Web;Toujours+en+quête+de+nouveaux+savoirs)
+
+---
+
+<img src="https://raw.githubusercontent.com/sagar-viradiya/sagar-viradiya/master/resources/banner.png" alt="Hello world">
+
+---
+
 
 <p align="center">
   <a href="mailto:amal.hkiri@esprit.tn">✉️ amal.hkiri@esprit.tn</a> · 📍 Tunis, Tunisie · 📞 +216 93 843 946
