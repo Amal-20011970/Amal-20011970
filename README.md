@@ -6,68 +6,75 @@
 </h1>
 
 <p align="center">
-  <a href="mailto:amal.hkiri@esprit.tn">✉️ amal.hkiri@esprit.tn</a> · Tunis, Tunisie · +216 93 843 946
+  <a href="mailto:amal.hkiri@esprit.tn">✉️ amal.hkiri@esprit.tn</a> · 📍 Tunis, Tunisie · 📞 +216 93 843 946
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Status-Étudiante-blueviolet?style=for-the-badge" alt="status"/>
-  <img src="https://img.shields.io/badge/Tech-Full--Stack-informational?style=for-the-badge" alt="tech"/>
-  <img src="https://img.shields.io/badge/Stack-Docker%20%7C%20Git-success?style=for-the-badge" alt="stack"/>
-  <img src="https://img.shields.io/badge/Language-Français%20%7C%20Anglais-<middle>?style=for-the-badge" alt="langues"/>
+  <img src="https://img.shields.io/badge/Status-Étudiante-blueviolet?style=for-the-badge&logo=hackthebox&logoColor=white" alt="status"/>
+  <img src="https://img.shields.io/badge/Tech-Full--Stack-informational?style=for-the-badge&logo=javascript&logoColor=white" alt="tech"/>
+  <img src="https://img.shields.io/badge/Stack-Docker%20%7C%20Git-success?style=for-the-badge&logo=docker&logoColor=white" alt="stack"/>
+  <img src="https://img.shields.io/badge/Languages-Français%20%7C%20Anglais%20%7C%20Arabe-ff69b4?style=for-the-badge&logo=google-translate&logoColor=white" alt="langues"/>
 </p>
 
 ---
 
-## 👋 Bonjour ! (Quick intro)
-Je suis **Amal Hkiri**, étudiante en ingénierie logicielle (ESPRIT). J’aime construire des projets full-stack, explorer les architectures microservices et automatiser les déploiements avec Docker.  
-Je recherche un **stage d’été (2 mois)** pour mettre en pratique mes compétences et apprendre au contact d’équipes pro.
+## 👋 Bonjour !
+Je suis **Amal Hkiri**, étudiante en **Ingénierie Logicielle à ESPRIT** 🎓.  
+Passionnée par le **développement full-stack**, j’aime créer des interfaces modernes, concevoir des APIs performantes et déployer des applications avec Docker 🐳.  
+Je recherche un **stage d’été (2 mois)** pour développer mes compétences et collaborer sur des projets innovants 🚀.
 
 ---
 
-## 🔭 Projets & Technologies
-**Languages & frameworks:** C, C++, Java, PHP, Python, JavaScript, SQL — Angular, Symfony, Spring Boot, JavaFX.  
-**Databases / DevOps:** MySQL, MongoDB, Docker.  
-**Conception:** REST APIs, Microservices.  
-**Versioning:** Git / GitHub.
+## 💻 Stack Technique
+
+| Domaine | Technologies |
+|----------|---------------|
+| **Langages** | C, C++, Java, PHP, Python, JavaScript, SQL |
+| **Frameworks** | Angular ⚡ · Symfony 💎 · Spring Boot ☕ · JavaFX 🖥️ |
+| **Bases de données** | MySQL 🐬 · MongoDB 🍃 |
+| **DevOps** | Docker 🐳 · Git / GitHub 🧭 |
+| **Architecture** | Microservices · REST APIs |
 
 ---
 
-## 📂 Projets académiques (highlights)
-- **Jeu 2D (C, SDL)** — plateforme sous Ubuntu.  
-- **Gestion agences d’ambulances (C++, Qt)** — gestion des ressources et planning.  
-- **Site gestion restaurants (HTML/CSS/JS, Symfony/PHP)**.  
-- **Application e-learning (Spring Boot + Angular)** — back-end robuste + front modulaire.
+## 🧠 Projets Académiques
+- 🎮 **Jeu 2D (C, SDL)** — Création d’un jeu de plateforme sous Ubuntu.  
+- 🚑 **App de gestion d’agences d’ambulances (C++, Qt)** — Gestion des ressources et du planning.  
+- 🍽️ **Site web de gestion de restaurants (Symfony, PHP, JS)** — Interface dynamique et responsive.  
+- 📚 **Application e-learning (Spring Boot + Angular)** — Architecture robuste, front moderne et backend sécurisé.
 
 ---
 
-## 🧾 Expériences
-- **Actia (Tunis)** — Stage Développement Logiciel (Juil.–Août 2024) — frontend & backend pour un site web.  
-- **Total Energy (Tunis)** — Stage d’Initiation (Été 2022) — observation & participation RH/admin.
+## 💼 Expériences Professionnelles
+**🔹 Actia, Tunis (Juil.–Août 2024)**  
+_Stage en Développement Logiciel_  
+→ Développement **Frontend & Backend** d’un site web complet.
+
+**🔹 Total Energy, Tunis (Juin–Août 2022)**  
+_Stage d’Initiation_  
+→ Découverte de la gestion administrative et des processus RH.
 
 ---
 
-## ✨ Aperçu visuel / démo
-- Ouvre `profile.html` dans ton navigateur pour voir une **mini-page animée "Hello World"** (design moderne, animation CSS, bouton contact).
-- Le même `hello.svg` est utilisé en en-tête du README pour une touche visuelle.
+## ✨ Portfolio en ligne
+🚀 **Découvre ma page animée “Hello World”** :  
+[![Portfolio en ligne](https://img.shields.io/badge/🌐_Voir_mon_portfolio-en_ligne-blueviolet?style=for-the-badge&logo=vercel&logoColor=white)](https://<ton_nom_utilisateur>.github.io/amalhkiri-portfolio/)
 
 ---
 
-## 📫 Contact
-Email: amal.hkiri@esprit.tn  
-Téléphone: +216 93 843 946  
-LinkedIn / GitHub: *(ajoute tes liens)*
+## 📫 Contact & Réseaux
+<p align="center">
+  <a href="mailto:amal.hkiri@esprit.tn">
+    <img src="https://img.shields.io/badge/Email-Contact_Me-red?style=for-the-badge&logo=gmail&logoColor=white" alt="email"/>
+  </a>
+  <a href="https://github.com/<ton_nom_utilisateur>">
+    <img src="https://img.shields.io/badge/GitHub-Amal_Hkiri-black?style=for-the-badge&logo=github" alt="github"/>
+  </a>
+  <a href="https://www.linkedin.com/in/amal-hkiri/">
+    <img src="https://img.shields.io/badge/LinkedIn-Amal_Hkiri-blue?style=for-the-badge&logo=linkedin" alt="linkedin"/>
+  </a>
+</p>
 
 ---
 
-## 💡 Conseils pour améliorer ce repo
-1. Ajoute des badges dynamiques (réputation GitHub, top languages).  
-2. Héberge `profile.html` via **GitHub Pages** pour une démo en ligne.  
-3. Ajoute captures/ GIFs des projets (screenshots + mini vidéos) dans `assets/`.
-
----
-
-> Merci d’avoir regardé ! Si tu veux, je peux aussi:
-> - transformer ce README pour GitHub Pages (index.html),
-> - générer des badges personnalisés,
-> - ou créer une version en anglais.
-
+<h3 align="center">🌟 “Le code, c’est plus qu’un langage : c’est un moyen de construire l’avenir.” 🌟</h3>
