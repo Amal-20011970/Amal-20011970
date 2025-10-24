@@ -47,16 +47,6 @@ Je recherche un **stage d’été (2 mois)** pour développer mes compétences e
 - 🍽️ **Site web de gestion de restaurants (Symfony, PHP, JS)** — Interface dynamique et responsive.  
 - 📚 **Application e-learning (Spring Boot + Angular)** — Architecture robuste, front moderne et backend sécurisé.
 
----
-
-## 💼 Expériences Professionnelles
-**🔹 Actia, Tunis (Juil.–Août 2024)**  
-_Stage en Développement Logiciel_  
-→ Développement **Frontend & Backend** d’un site web complet.
-
-**🔹 Total Energy, Tunis (Juin–Août 2022)**  
-_Stage d’Initiation_  
-→ Découverte de la gestion administrative et des processus RH.
 
 ---
 
